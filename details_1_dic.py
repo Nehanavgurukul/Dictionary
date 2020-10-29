@@ -1,0 +1,11 @@
+details={
+    "name":"neha",
+    "age":21,
+    "address":"bhander"
+}
+name=details["name"]
+age=details["age"]
+address=details["address"]
+print(name)
+print(age)
+print(address)
